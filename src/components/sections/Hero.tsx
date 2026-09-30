@@ -23,7 +23,7 @@ export function HeroLeft() {
           <img 
             src="/profile.jpg" 
             alt="Sharon Elsa Sam Portrait"
-            className="w-full h-full object-cover filter sepia-[0.1] hover:filter-none transition-all duration-300"
+            className="w-full h-full object-cover object-[50%_30%] filter sepia-[0.1] hover:filter-none transition-all duration-300"
           />
           
           <div className="absolute bottom-2 left-2 text-[8px] font-mono text-mutedgray tracking-wider bg-paper/80 px-1 border border-warmgray/50">
